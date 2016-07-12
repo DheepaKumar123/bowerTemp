@@ -1,10 +1,5 @@
-
 {
-
   "name": "bower-javascript",
-
-  "version": "14.2.26",
-
+  "version": "14.2.0.26",
   "description": "Bower package of JavaScript."
-
 }
